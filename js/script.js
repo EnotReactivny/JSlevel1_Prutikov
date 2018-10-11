@@ -21,20 +21,20 @@ console.log("Температура по Фаренгейту равна " + Tf 
 Работа с переменными
 */
 
-let a =69;
+let a = 69;
 let b = 96;
 
-alert(a+b);
-console.log(a+b);
+alert(a + b);
+console.log(a + b);
 
-alert(a-b);
-console.log(a-b);
+alert(a - b);
+console.log(a - b);
 
-alert(a*b);
-console.log(a*b);
+alert(a * b);
+console.log(a * b);
 
-alert(a/b);
-console.log(a/b);
+alert(a / b);
+console.log(a / b);
 
 /*ЗАДАНИЕ №3
 Объявление 2х переменных и присвоение второй переменной значения первой
@@ -52,7 +52,7 @@ console.log(admin);
 */
 
 //Результатом будет 1000108, т.к компилятор будет считать что происходит сложение двух строк
-console.log(1000+"108")
+console.log(1000 + "108")
 
 /*ЗАДАНИЕ №5
 Атрибуты async и defer
